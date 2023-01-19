@@ -75,7 +75,7 @@
 						</form> -->
 						<?php //} ?>
 
-						<a href="/become-a-member/" class="site-button">Become a member</a>
+						<a href="/become-a-member/" class="site-button">Become a fan</a>
 
 					</div>
 
